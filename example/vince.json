@@ -1,0 +1,9 @@
+{
+  "executing": {
+    "script": "main.lua"
+  },
+  "font": {
+    "ttf": "arial.ttf",
+    "size": 16
+  }
+}
